@@ -46,6 +46,5 @@ Interfaces de alta fidelidade para gestão de requisições financeiras e contro
 ### 📬 Contacto
 📍 Florianópolis, SC - Brasil  
 🌐 [santailha.com.br](https://www.santailha.com.br)  
-💼 [Trabalhe Conosco](https://www.santailha.com.br/contato)
 
 *"Inovando o presente para construir o futuro do morar."*
