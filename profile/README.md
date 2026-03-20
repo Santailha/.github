@@ -43,7 +43,7 @@ Interfaces de alta fidelidade para gestão de requisições financeiras e contro
 
 ---
 
-### 📬 Contacto
+### 📬 Contato
 📍 Florianópolis, SC - Brasil  
 🌐 [santailha.com.br](https://www.santailha.com.br)  
 
