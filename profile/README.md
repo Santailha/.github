@@ -42,7 +42,13 @@ Interfaces de alta fidelidade para gestão de requisições financeiras e contro
 - **Seniority & Directness**: Código limpo, documentação clara e foco na entrega de valor.
 
 ---
+### 📊 Estatísticas do GitHub
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Santailha&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
 ### 📬 Contato
 📍 Florianópolis, SC - Brasil  
 🌐 [santailha.com.br](https://www.santailha.com.br)  
