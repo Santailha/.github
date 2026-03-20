@@ -45,8 +45,8 @@ Interfaces de alta fidelidade para gestão de requisições financeiras e contro
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-nu-eight-45.vercel.app/api?username=lucaassos&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats-nu-eight-45.vercel.app/api/top-langs/?username=lucaassos&layout=compact&theme=radium"/>
+  <img height="150" src="https://github-readme-stats-nu-eight-45.vercel.app/api?username=Santailhas&show_icons=true&theme=radium&include_all_commits=true&count_private=true&v=1"/>
+  <img height="150" src="https://github-readme-stats-nu-eight-45.vercel.app/api/top-langs/?username=Santailha&layout=compact&theme=radium&v=1"/>
 </div>
 
 ---
